@@ -11,7 +11,7 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/vahonen/Alive.git";
     }
 
     public static String travisUrl() {
