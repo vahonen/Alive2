@@ -15,7 +15,7 @@ public class AliveApplication {
     }
 
     public static String travisUrl() {
-        return "https://travis-ci.com/vahonen/Alive";
+        return "https://travis-ci.org/vahonen/Alive";
     }
 
     public static String herokuUrl() {
