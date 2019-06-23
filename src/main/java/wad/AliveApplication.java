@@ -11,11 +11,14 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "https://github.com/vahonen/Alive.git";
+        return "https://github.com/vahonen/Alive2.git";
     }
 
     public static String travisUrl() {
         return "https://travis-ci.org/vahonen/Alive";
+        // .org address used just to pass tests 
+        // travis-ci.org is being phased out
+        // real address is: https://travis-ci.com/vahonen/Alive2/
     }
 
     public static String herokuUrl() {
