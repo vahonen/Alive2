@@ -16,8 +16,8 @@ public class AliveApplication {
 
     public static String travisUrl() {
         return "https://travis-ci.org/vahonen/Alive";
-        // .org address used just to pass tests 
-        // travis-ci.org is being phased out
+        // Note: travis-ci.org is being phased out
+        // .org address is used here just to pass tests 
         // real address is: https://travis-ci.com/vahonen/Alive2/
     }
 
